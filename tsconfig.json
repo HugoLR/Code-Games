@@ -5,7 +5,8 @@
       "~app/*": ["app/*"],
       "~components/*": ["components/*"],
       "~games/*": ["constants/*"],
-      "~hooks/*": ["hooks/*"]
+      "~hooks/*": ["hooks/*"],
+      "~routes/*": ["routes/*"]
     },
     "target": "ESNext",
     "useDefineForClassFields": true,
